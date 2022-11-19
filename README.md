@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Ethan Maestas. </br>
 I am a Junior studying Secure Software Development. </br>
-I am always looking to learn new technologies and improve
+I am always looking to learn new technologies and improve as a developer.
 
 ### Im currently working on
-A NextJS application called artdealer - </br> 
+A NextJS application called "artdealer" </br> 
 an advanced artwork search engine platform
 
 ## Experience
