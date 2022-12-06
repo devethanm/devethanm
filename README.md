@@ -4,7 +4,7 @@ I am a Junior studying Secure Software Development. </br>
 I am always looking to learn new technologies and improve as a developer.
 
 ### Im currently working on
-A NextJS application called "artdealer" </br> 
+A NextJS application called "polyptych" </br> 
 an advanced artwork search engine platform
 
 ## Experience
