@@ -11,7 +11,7 @@ an advanced artwork search engine platform
 ### <ins>Languages</ins>
 - Python, Javascript/Typescript, C/C++, Java, and MySQL.
 ### <ins>Learning</ins>
-- NextJS/Fullstack development, and Rust.
+- NextJS/Fullstack development and Rust.
 
 Feel free to reach out to me at ethanmdev@gmail.com
 
