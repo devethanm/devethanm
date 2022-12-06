@@ -9,7 +9,7 @@ an advanced artwork search engine platform
 
 ## Experience
 ### <ins>Languages</ins>
-- Python, Javascript/Typescript, C/C++, Java, and MySQL.
+- Python, Javascript/Typescript, C, C++, Java, Swift and MySQL.
 ### <ins>Learning</ins>
 - NextJS/Fullstack development and Rust.
 
