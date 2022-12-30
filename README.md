@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 My name is Ethan Maestas. </br>
 I am a Junior studying Secure Software Development. </br>
 I am always looking to learn new technologies and improve as a developer.
