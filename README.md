@@ -1,17 +1,18 @@
 ### Hello 👋
 My name is Ethan Maestas. </br>
-I am a Junior studying Secure Software Development. </br>
+I am a senior studying Secure Software Development. </br>
 I am always looking to learn new technologies and improve as a developer.
 
 ### Im currently working on
-A NextJS application called "polyptych" </br> 
+- A software automation agency
+- A NextJS application called "polyptych" </br> 
 an advanced artwork search engine platform
 
 ## Experience
 ### <ins>Languages</ins>
 - Python, Javascript/Typescript, C, C++, Java, Swift and MySQL.
 ### <ins>Learning</ins>
-- NextJS/Fullstack development and Rust.
+- NextJS/Fullstack web development and Rust.
 
 Feel free to reach out to me at ethanmdev@gmail.com
 
